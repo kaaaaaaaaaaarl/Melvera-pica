@@ -1,8 +1,9 @@
-# Melvera-pica
+# Melvera-pica  
 
-**plans**
---[] merge dzerieniPabeigti ar master
---[x] izveidot README.md
+**plans**   
 
-
+--[] merge dzerieniPabeigti ar master  
+--[x] izveidot README.md  
+  
+  
 :sob:
